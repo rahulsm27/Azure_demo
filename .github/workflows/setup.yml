@@ -11,6 +11,7 @@ on:
 # 1. Set up the following secrets in your repository: 
 #   AZURE_RESOURCE_GROUP 
 #   STORAGE_ACCOUNT 
+# Triger
 env:
   AZURE_RESOURCE_GROUP: OH-Demo-RG  #set this to your resource group name 
   #STORAGE_ACCOUNT: storage-account-name           #set this to your storage-account-name
