@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "computeName": {
-      "value": "igniteCluster"
+      "value": "igniteCluster1"
     },
     "workspaceName": {
-      "value": "demoAzMLWorkspace"
+      "value": "demoAzMLWorkspace1"
     },
     "DataLakestorageName": {
-      "value": "mydlsdemo2"
+      "value": "mydlsdemo21"
     }
   }
 }
